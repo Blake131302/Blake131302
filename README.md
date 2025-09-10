@@ -1,7 +1,10 @@
-## Hi there 👋 My name is Blake Smith
+# Hi there 👋 My name is Blake Smith
 
-##
+## My major
+My goal is to graduate with a degree in Computer Science
 
+## My future projects
+Later this year some projects that I plan to complete include
 <!--
 **Blake131302/Blake131302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
